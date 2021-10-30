@@ -9,7 +9,7 @@ Recommended MAMP for Apple
 2. Download wordpress CMS from wordpress.org https://wordpress.org/download/
 3. In your Apache root ex: htcdocs unzip, create new_folder, put the wordpress download here, unzip
 4. Navigate to wp-content/themes/
-5. git clone https://github.com/flynn723/Angular-WP-THeme.git
+5. git clone https://github.com/justinestrada/Angular-WP-THeme.git
 6. change directories to angular-app, run npm install
 7. then run ng serve or ng build, this will open up localhost:4200, you can close this
 8. start your WAMP or MAMP server
